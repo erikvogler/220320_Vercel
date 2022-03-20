@@ -4,7 +4,7 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'FreeTree next level App!'
+const name = 'FreeTree next level App! 2nd edition'
 export const siteTitle = 'Next.js Sample Website'
 
 export default function Layout({ children, home }) {
